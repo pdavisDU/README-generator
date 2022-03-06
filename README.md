@@ -10,9 +10,9 @@
   ## Description
   This is a simple app to create README files for future projects.  
   
-  ![Screenshot](./assets/Screen Shot 2022-03-06 at 12.27.43 PM.png)  
+  ![Screenshot](./assets/README-ss.png)  
 
-  ![Gif](./assets/Untitled_ Mar 6, 2022 12_23 PM.gif)
+  ![Gif](./assets/README.gif)
 
   ## Installation
   To install run npm i
