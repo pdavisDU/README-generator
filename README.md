@@ -12,7 +12,7 @@
   
   ![Screenshot](./assets/README-ss.png)  
 
-  ![Video](https://drive.google.com/file/d/1Mp-XsGx_nePnhxoCyxBVQJGO2BZOO62l/view)
+  Video: https://drive.google.com/file/d/1Mp-XsGx_nePnhxoCyxBVQJGO2BZOO62l/view
 
   ## Installation
   To install run npm i
