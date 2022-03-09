@@ -12,7 +12,7 @@
   
   ![Screenshot](./assets/README-ss.png)  
 
-  ![Gif](./assets/README.gif)
+  ![Gif](https://drive.google.com/file/d/1Mp-XsGx_nePnhxoCyxBVQJGO2BZOO62l/view)
 
   ## Installation
   To install run npm i
